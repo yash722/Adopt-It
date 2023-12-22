@@ -3,6 +3,6 @@ In a world where almost 2 million dogs are adopted annually (with this statistic
 In order to facilitate the same and easing the process, the project decided to create a recommendation system for these shelters, wherein people can give a rough photo of their desired dog as well as a description of what kind dog they want to adopt, and the system would give out 8 recommendations to them.
 
 This project aims to create a recommendation system for dog adoptions by taking taking images and dog descriptions from MSPCA. The project would further take data from the user and compare these items from the data present in the dataset in order to recommend potential adoptees. In particular, the project plans -
-On using Deep Convolutional Networks to get feature spaces for images present in the dataset as well as to extract features from image presented by the user.
-On using Transformers to get feature spaces for description presented in the dataset as well as on the text prompt given by the user.
-Combine these two features and compare features from the feature space presented in the dataset with the features generated from the user in order to recommend relevant data to the user.
+* On using Deep Convolutional Networks to get feature spaces for images present in the dataset as well as to extract features from image presented by the user.
+* On using Transformers to get feature spaces for description presented in the dataset as well as on the text prompt given by the user.
+* Combine these two features and compare features from the feature space presented in the dataset with the features generated from the user in order to recommend relevant data to the user.
